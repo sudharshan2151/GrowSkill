@@ -26,5 +26,8 @@ The backend of the GrowSkill platform is implemented using Java with the Spring 
 4. Run the application: `mvn spring-boot:run`
 5. Access the application in your web browser: `http://localhost:8080`
 
+## Database
+![Untitled (1)](https://github.com/sudharshan2151/GrowSkill/assets/123924081/91c5500d-581b-433d-88f5-df2f92b500f9)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
