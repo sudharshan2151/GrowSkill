@@ -21,7 +21,7 @@ The backend of the GrowSkill platform is implemented using Java with the Spring 
 
 ## Setup
 1. Clone the repository: `git clone https://github.com/sudharshan2151/GrowSkill.git`
-2. Navigate to the project directory: `cd GrowSkill`
+2. Navigate to the project directory: `cd growskill`
 3. Build the project: `mvn clean install`
 4. Run the application: `mvn spring-boot:run`
 5. Access the application in your web browser: `http://localhost:8080`
