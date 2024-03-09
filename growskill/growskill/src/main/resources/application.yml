@@ -1,0 +1,17 @@
+logging:
+  file:
+    name: logfile.log
+    path: .
+server:
+  port: 8088
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: Sudhar@2001
+    url: jdbc:mysql://localhost:3306/growskill
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+ 
